@@ -31,7 +31,7 @@ public class lList {
         void lList(){
             head.data = 0;
             head.next = null;
-        }//lList constructor end
+        }//lList constructor 
 
     //-------------Method to insert a new node to the list--------------
         void insert(int data){
